@@ -38,12 +38,7 @@ def main ():
     else:
         print(f"Calories: {facts[fruit]}")
     
-    
-    
-    
-
-
-
+ 
 
 if __name__ == "__main__":
     main()

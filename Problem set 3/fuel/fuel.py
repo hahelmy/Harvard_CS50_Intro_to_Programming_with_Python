@@ -17,11 +17,8 @@ def main ():
 def percentage():
     fraction = input("Fraction: ")
     up,down = fraction.split("/")
-    
 
-        
     try:
-       
         result = round(int(up)/int(down)*100)
             
         if result >= 99:
